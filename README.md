@@ -11,10 +11,10 @@ file structure
 
 ```bash
 python/
-   lib/
-     python3.7/
-        site-packages/
-          some_python_script.py
+     lib/
+       python3.7/
+          site-packages/
+             some_python_script.py
   ```
 
 After creating the layer for your lamda function you would then import the file
